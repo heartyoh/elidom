@@ -1,0 +1,14 @@
+{
+  "name": "elidom",
+  "version": "1.0.0",
+  "description": "Command Line Menu Tool.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heartyoh",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "elidom": "index.js"
+  }
+}
